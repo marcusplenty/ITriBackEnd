@@ -1,0 +1,19 @@
+---
+development:
+  cloud_name: itri
+  api_key: '762483299712468'
+  api_secret: uCqrxcQDr3yz017QPqfZbDIAwMs
+  enhance_image_tag: true
+  static_file_support: false
+production:
+  cloud_name: itri
+  api_key: '762483299712468'
+  api_secret: uCqrxcQDr3yz017QPqfZbDIAwMs
+  enhance_image_tag: true
+  static_file_support: true
+test:
+  cloud_name: itri
+  api_key: '762483299712468'
+  api_secret: uCqrxcQDr3yz017QPqfZbDIAwMs
+  enhance_image_tag: true
+  static_file_support: false
